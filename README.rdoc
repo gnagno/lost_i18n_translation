@@ -1,3 +1,11 @@
-= LostI18nTranslation
+= Lost I18n Translation
 
-This project rocks and uses MIT-LICENSE.
+= HowTo
+
+Remember to modify:
+
+app/assets/javascripts/application.js by adding:
+  //= require lost-i18n-translation
+
+app/assets/stylesheets/application.css
+  *= require lost-i18n-translation
