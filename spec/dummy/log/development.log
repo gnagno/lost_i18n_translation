@@ -220,3 +220,144 @@ ActionController::RoutingError (No route matches [GET] "/assets/lost-i18n-transl
   
 
 Rendered /home/gnagno/.rvm/gems/ruby-1.9.2-head@rails3.1/gems/actionpack-3.1.0.rc3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/assets/lost-i18n-translation/application.css" for 127.0.0.1 at 2011-07-14 18:22:32 +0200
+Served asset /lost-i18n-translation/application.css - 404 Not Found  (2ms)  (pid 27497)
+
+ActionController::RoutingError (No route matches [GET] "/assets/lost-i18n-translation/application.css"):
+  
+
+Rendered /home/gnagno/.rvm/gems/ruby-1.9.2-head@rails3.1/gems/actionpack-3.1.0.rc3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (16.8ms)
+
+
+Started GET "/assets/lost-i18n-translation/application.css" for 127.0.0.1 at 2011-07-14 18:22:33 +0200
+Served asset /lost-i18n-translation/application.css - 404 Not Found  (3ms)  (pid 27497)
+
+ActionController::RoutingError (No route matches [GET] "/assets/lost-i18n-translation/application.css"):
+  
+
+Rendered /home/gnagno/.rvm/gems/ruby-1.9.2-head@rails3.1/gems/actionpack-3.1.0.rc3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2011-07-14 18:22:40 +0200
+Compiled ~/workspace.php/rails/lost-i18n-translation/spec/dummy/app/assets/stylesheets/application.css  (0ms)  (pid 27497)
+Compiled ~/workspace.php/rails/lost-i18n-translation/spec/dummy/app/assets/stylesheets/home.css.scss  (8ms)  (pid 27497)
+Served asset /application.css - 304 Not Modified  (12ms)  (pid 27497)
+
+
+Started GET "/application.css" for 127.0.0.1 at 2011-07-14 18:22:47 +0200
+
+ActionController::RoutingError (No route matches [GET] "/application.css"):
+  
+
+Rendered /home/gnagno/.rvm/gems/ruby-1.9.2-head@rails3.1/gems/actionpack-3.1.0.rc3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2011-07-14 18:22:52 +0200
+Served asset /application.css - 304 Not Modified  (0ms)  (pid 27497)
+
+
+Started GET "/stylesheets/application.css" for 127.0.0.1 at 2011-07-14 18:25:55 +0200
+
+ActionController::RoutingError (No route matches [GET] "/stylesheets/application.css"):
+  
+
+Rendered /home/gnagno/.rvm/gems/ruby-1.9.2-head@rails3.1/gems/actionpack-3.1.0.rc3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/stylesheets" for 127.0.0.1 at 2011-07-14 18:25:58 +0200
+
+ActionController::RoutingError (No route matches [GET] "/stylesheets"):
+  
+
+Rendered /home/gnagno/.rvm/gems/ruby-1.9.2-head@rails3.1/gems/actionpack-3.1.0.rc3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/stylesheet" for 127.0.0.1 at 2011-07-14 18:26:02 +0200
+
+ActionController::RoutingError (No route matches [GET] "/stylesheet"):
+  
+
+Rendered /home/gnagno/.rvm/gems/ruby-1.9.2-head@rails3.1/gems/actionpack-3.1.0.rc3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/stylesheet/lost-i18n-translation.css" for 127.0.0.1 at 2011-07-14 18:26:19 +0200
+
+ActionController::RoutingError (No route matches [GET] "/stylesheet/lost-i18n-translation.css"):
+  
+
+Rendered /home/gnagno/.rvm/gems/ruby-1.9.2-head@rails3.1/gems/actionpack-3.1.0.rc3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/stylesheet/lost-i18n-translation.css" for 127.0.0.1 at 2011-07-14 18:53:03 +0200
+
+ActionController::RoutingError (No route matches [GET] "/stylesheet/lost-i18n-translation.css"):
+  
+
+Rendered /home/gnagno/.rvm/gems/ruby-1.9.2-head@rails3.1/gems/actionpack-3.1.0.rc3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-07-15 11:00:34 +0200
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (75.0ms)
+Completed 200 OK in 181ms (Views: 180.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2011-07-15 11:00:34 +0200
+Compiled ~/workspace.php/rails/lost-i18n-translation/spec/dummy/app/assets/stylesheets/application.css  (9ms)  (pid 28718)
+Compiled ~/workspace.php/rails/lost-i18n-translation/spec/dummy/app/assets/stylesheets/home.css.scss  (29ms)  (pid 28718)
+Served asset /application.css - 304 Not Modified  (40ms)  (pid 28718)
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2011-07-15 11:00:34 +0200
+Compiled ~/workspace.php/rails/lost-i18n-translation/spec/dummy/app/assets/javascripts/application.js  (3ms)  (pid 28718)
+Compiled ~/.rvm/gems/ruby-1.9.2-head@rails3.1/gems/jquery-rails-1.0.12/vendor/assets/javascripts/jquery.js  (54ms)  (pid 28718)
+Compiled ~/.rvm/gems/ruby-1.9.2-head@rails3.1/gems/jquery-rails-1.0.12/vendor/assets/javascripts/jquery_ujs.js  (2ms)  (pid 28718)
+Compiled ~/workspace.php/rails/lost-i18n-translation/spec/dummy/app/assets/javascripts/home.js.coffee  (525ms)  (pid 28718)
+Compiled ~/workspace.php/rails/lost-i18n-translation/app/assets/javascripts/lost-i18n-translation.js  (0ms)  (pid 28718)
+Compiled ~/workspace.php/rails/lost-i18n-translation/spec/dummy/app/assets/javascripts/application.js  (0ms)  (pid 28718)
+Served asset /application.js - 200 OK  (596ms)  (pid 28718)
+
+
+Started GET "/" for 127.0.0.1 at 2011-07-15 11:00:44 +0200
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2011-07-15 11:00:46 +0200
+Served asset /application.css - 304 Not Modified  (0ms)  (pid 28718)
+
+
+Started GET "/" for 127.0.0.1 at 2011-07-15 11:01:40 +0200
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (18.0ms)
+Completed 200 OK in 101ms (Views: 100.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2011-07-15 11:01:41 +0200
+Compiled ~/workspace.php/rails/lost-i18n-translation/spec/dummy/app/assets/stylesheets/application.css  (1ms)  (pid 28880)
+Compiled ~/workspace.php/rails/lost-i18n-translation/spec/dummy/app/assets/stylesheets/home.css.scss  (5ms)  (pid 28880)
+Compiled ~/workspace.php/rails/lost-i18n-translation/app/assets/stylesheets/lost-i18n-translation.css.scss  (21ms)  (pid 28880)
+Compiled ~/workspace.php/rails/lost-i18n-translation/spec/dummy/app/assets/stylesheets/application.css  (0ms)  (pid 28880)
+Served asset /application.css - 200 OK  (32ms)  (pid 28880)
+
+
+Started GET "/" for 127.0.0.1 at 2011-07-15 11:01:44 +0200
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2011-07-15 11:01:44 +0200
+Served asset /application.css - 200 OK  (0ms)  (pid 28880)
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2011-07-15 11:01:44 +0200
+Compiled ~/workspace.php/rails/lost-i18n-translation/spec/dummy/app/assets/javascripts/application.js  (3ms)  (pid 28880)
+Compiled ~/.rvm/gems/ruby-1.9.2-head@rails3.1/gems/jquery-rails-1.0.12/vendor/assets/javascripts/jquery.js  (0ms)  (pid 28880)
+Compiled ~/.rvm/gems/ruby-1.9.2-head@rails3.1/gems/jquery-rails-1.0.12/vendor/assets/javascripts/jquery_ujs.js  (0ms)  (pid 28880)
+Compiled ~/workspace.php/rails/lost-i18n-translation/spec/dummy/app/assets/javascripts/home.js.coffee  (137ms)  (pid 28880)
+Compiled ~/workspace.php/rails/lost-i18n-translation/app/assets/javascripts/lost-i18n-translation.js  (0ms)  (pid 28880)
+Served asset /application.js - 304 Not Modified  (147ms)  (pid 28880)
