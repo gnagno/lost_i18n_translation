@@ -1,6 +1,6 @@
 GIT
-  remote: https://github.com/adamico/i18n-js.git
-  revision: f586ffb385cba1e0a49f8dd80b557c34dee3a283
+  remote: https://github.com/fnando/i18n-js.git
+  revision: c560abc4b52d28fe4839cc95421430ebfc4c0a69
   specs:
     i18n-js (1.0.2)
       i18n

@@ -19,7 +19,7 @@ gem 'uglifier'
 gem 'execjs'
 gem 'jquery-rails'
 gem 'sass-rails'
-gem "i18n-js", :git => "https://github.com/adamico/i18n-js.git"
+gem "i18n-js", :git => "https://github.com/fnando/i18n-js.git"
 
 if RUBY_VERSION < '1.9'
   gem "ruby-debug", ">= 0.10.3"
