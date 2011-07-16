@@ -4,4 +4,12 @@ span.translation_missing {
 
 span.translation_present {
   border: 1px solid green;
+
+#lost-i18n-translation-div {
+  position: fixed;
+  top:0px;
+  right:0px;
+  z-index: 1;
+  background-color: orange;
+  opacity:0.8;
 }
