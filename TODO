@@ -1,0 +1,2 @@
+- "Missing translations" string in bar should be translatable too, we should create a rails helper method to add this string without using js
+- We should maybe add a flag icon for the current locale. Just for gazzosa, though :)
