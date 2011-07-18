@@ -8,3 +8,5 @@
 //= require jquery_ujs
 //= require_tree .
 //= require lost-i18n-translation
+//= require i18n
+//= require translations
