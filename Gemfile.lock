@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/fnando/i18n-js.git
+  revision: c560abc4b52d28fe4839cc95421430ebfc4c0a69
+  specs:
+    i18n-js (1.0.2)
+      i18n
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -167,6 +174,7 @@ DEPENDENCIES
   database_cleaner
   execjs
   factory_girl_rails (~> 1.1.beta1)
+  i18n-js!
   jquery-rails
   launchy
   rails (= 3.1.0.rc4)

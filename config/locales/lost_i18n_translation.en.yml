@@ -1,0 +1,4 @@
+en:
+  lost_i18n_translation:
+    missing_label: "Missing translations"
+    present_label: "Present translations"
